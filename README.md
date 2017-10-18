@@ -25,7 +25,7 @@
         2008. The company's second vehicle, the Model S, an electric luxury sedan, debuted in June 2012 and is built at the Tesla Factory in
         California. The Model S has been the world's best-selling plug-in electric car for two years in a row, 2015 and 2016. Its global sales
         achieved the 150,000 unit milestone in November 2016, four years and five months after its introduction. As of December 2016, the Model
-        S ranks as the world's all-time second best-selling plug-in after the Nissan Leaf.[16] The Model S was then followed in September 2015
+        S ranks as the world's all-time second best-selling plug-in after the Nissan Leaf. The Model S was then followed in September 2015
         by the Model X, a crossover SUV. Tesla's fourth vehicle that is designed for the mass-market is the Model 3, which was unveiled in
         March 2016 and its production started in July 2017 with a base price of US$35,000, before any government incentives.</p2>                                  
 
